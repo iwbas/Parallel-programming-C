@@ -1,0 +1,13 @@
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\bin\Debug\netcoreapp3.1\LR2.exe
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\bin\Debug\netcoreapp3.1\LR2.deps.json
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\bin\Debug\netcoreapp3.1\LR2.runtimeconfig.json
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\bin\Debug\netcoreapp3.1\LR2.runtimeconfig.dev.json
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\bin\Debug\netcoreapp3.1\LR2.dll
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\bin\Debug\netcoreapp3.1\LR2.pdb
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\obj\Debug\netcoreapp3.1\LR2.csprojAssemblyReference.cache
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\obj\Debug\netcoreapp3.1\LR2.AssemblyInfoInputs.cache
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\obj\Debug\netcoreapp3.1\LR2.AssemblyInfo.cs
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\obj\Debug\netcoreapp3.1\LR2.csproj.CoreCompileInputs.cache
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\obj\Debug\netcoreapp3.1\LR2.dll
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\obj\Debug\netcoreapp3.1\LR2.pdb
+E:\University\7 term\Параллельное программирование\Лабораторные\LR2\obj\Debug\netcoreapp3.1\LR2.genruntimeconfig.cache
